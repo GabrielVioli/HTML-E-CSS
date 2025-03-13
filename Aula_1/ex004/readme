@@ -1,0 +1,4 @@
+Para usar a formatação Negrito em HTML usamos a TAG <b>Frase em negrito</b> (não semantica)
+Para usar a formatação Destaque em HTML usamos a TAG <strong>Frase em destaque</strong> (semantica)
+Para usar a formatação Italico em HTML usamos a TAG <i>frase em italico</i> (nao semantico)
+Para usar a formatação de enfase em HTML usamos a TAG <em>frase em enfase</em> (semantico)
