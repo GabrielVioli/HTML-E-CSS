@@ -1,0 +1,29 @@
+Tag mark
+para usarmos uma marcação amerela no texto usamos a tag <mark></mark>
+para mudarmos a cor da marcação, usamos <styles> </styles> dentro da Tag, por exemplo:
+
+<h1><mark style="background-color: cadetblue;">nesse texto existe CSS</mark></h1>
+
+tag small e big
+
+small -> texto pequeno
+big -> texto grande
+
+small
+<h1>Lorem ipsum, dolor sit amet <small>consectetur adipisicing elit</small>. Ipsam recusandae perferendis, porro expedita reprehenderit necessitatibus est quisquam asperiores quos quod adipisci placeat et animi eligendi hic mollitia voluptatum pariatur similique.</h1>7
+
+bug
+<h1>Lorem ipsum dolor sit amet <big>consectetur adipisicing elit.</big> Dolor saepe et veniam culpa nulla, accusamus quas dolore deserunt maxime voluptas similique? Laboriosam ipsum voluptate minima laudantium veniam modi architecto eos.</h1>
+
+TEXTO DELETADO
+
+tag <del></del>
+<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. <del>Harum sequi expedita adipisci minima</del> repudiandae doloribus fugiat animi omnis at mollitia, maxime cupiditate architecto ipsum. Eveniet pariatur dolor deserunt consequatur neque!</h1>
+
+TEXTO SUBLINHADO
+tag <u></u>
+<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. <u> Commodi et nisi mollitia laboriosam</u>, obcaecati facere sit minus vero deleniti accusamus quis temporibus dolor explicabo cumque odit iure officiis deserunt! Iusto.</h1>
+
+TEXTO SUBSCRITO
+tag <sup></sup>
+<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum commodi <sup>quidem excepturi nam aperiam</sup> nemo aspernatur, magni odit asperiores molestiae alias at, nulla numquam placeat soluta quaerat quasi assumenda obcaecati!</h1>

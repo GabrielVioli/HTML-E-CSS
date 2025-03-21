@@ -1,0 +1,27 @@
+OL -> listas ordenadas
+UL - listas não ordenadas
+
+
+OL
+Serve para criação de listas ordenadas
+por exemplo
+
+1.
+2.
+3.
+4.
+
+usamos a tag <ol> ou <ol type = "A"> e dentro da tag usamos a tag <li></li>
+
+
+UL
+Serve para criação de listas não ordenadas
+por exemplo
+
+° 
+°
+°
+°
+
+usamos a tag <ul> ou <ul type "tipo>
+

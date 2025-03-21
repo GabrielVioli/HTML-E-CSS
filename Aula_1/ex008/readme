@@ -1,0 +1,6 @@
+links e ancoras
+
+para colocarmos um link usamos a tag <a href="link"></a>
+
+para abrir esse link em outra aba usamos a tag <a href="link" target="_blank" rel="external"></a>
+
